@@ -1,3 +1,3 @@
 # test-div vvvvvvv
 Bravooooooo!
-test2
+test2: merge auto
